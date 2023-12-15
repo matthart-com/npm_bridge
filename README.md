@@ -3,8 +3,11 @@
 Run these commands:
 
 flutter pub get
+
 cd bridge
+
 npm install
+
 npm run build
 
 Open an iOS Simulator. Open an Android simulator.
